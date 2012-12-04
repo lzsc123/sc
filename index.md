@@ -1,5 +1,5 @@
 ---
-title:Ê¯´Ï|²©¿Í
+title:  There are no shortcuts to any place worth going!
 layout: page
 ---
 
@@ -7,7 +7,6 @@ layout: page
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
-  
     {% assign year = y %}
     <li class="listing-seperator">{{ y }}</li>
   {% endif %}
