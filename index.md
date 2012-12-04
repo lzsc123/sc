@@ -1,5 +1,5 @@
 ---
-title:  There are no shortcuts to any place worth going!
+title:Ê¯´Ï|²©¿Í
 layout: page
 ---
 
