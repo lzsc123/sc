@@ -1,5 +1,5 @@
 ---
-title:  There are no shortcuts to any place worth going!
+title:  石聪|博客
 layout: page
 ---
 
@@ -16,4 +16,3 @@ layout: page
   </li>
 {% endfor %}
 </ul>
-
