@@ -1,6 +1,6 @@
-markdown: redcarpet
+markdown: rdiscount
 permalink: /:year/:month/:title/
-baseurl:/sc
-url:http://lzsc123.github.io/sc/
+baseurl: /sc
+url: http://lzsc123.github.io
 author: 石聪
 pygments: true
