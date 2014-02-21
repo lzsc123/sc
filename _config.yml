@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: redcarpet
 permalink: /:year/:month/:title/
 baseurl:/sc
 author: 石聪
